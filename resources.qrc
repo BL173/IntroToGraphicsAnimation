@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>night_sky.jpg</file>
+        <file>texture.jpg</file>
+    </qresource>
+</RCC>
